@@ -1,0 +1,8 @@
+C:\Users\kemylin.kafreitas\source\repos\Calculadora_\bin\Debug\Calculadora_.exe.config
+C:\Users\kemylin.kafreitas\source\repos\Calculadora_\bin\Debug\Calculadora_.exe
+C:\Users\kemylin.kafreitas\source\repos\Calculadora_\bin\Debug\Calculadora_.pdb
+C:\Users\kemylin.kafreitas\source\repos\Calculadora_\obj\Debug\Calculadora_.csproj.AssemblyReference.cache
+C:\Users\kemylin.kafreitas\source\repos\Calculadora_\obj\Debug\Calculadora_.csproj.SuggestedBindingRedirects.cache
+C:\Users\kemylin.kafreitas\source\repos\Calculadora_\obj\Debug\Calculadora_.csproj.CoreCompileInputs.cache
+C:\Users\kemylin.kafreitas\source\repos\Calculadora_\obj\Debug\Calculadora_.exe
+C:\Users\kemylin.kafreitas\source\repos\Calculadora_\obj\Debug\Calculadora_.pdb
